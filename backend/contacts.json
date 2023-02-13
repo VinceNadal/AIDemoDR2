@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "d8a3fa21-e192-4561-8c42-b1b2a371f78e",
+    "FirstName": "Billy",
+    "LastName": "Butcher",
+    "PhysicalAddress": "Tagbilaran City",
+    "DeliveryAddress": "Tagbilaran City"
+  },
+  {
+    "Id": "62b65209-3e90-42a1-8462-af2676256648",
+    "FirstName": "Mother",
+    "LastName": "Milk",
+    "PhysicalAddress": "Manila",
+    "DeliveryAddress": "Manila"
+  },
+  {
+    "Id": "7965b098-7fc2-422c-9b15-2e3bcd126dd0",
+    "FirstName": "Home",
+    "LastName": "Lander",
+    "PhysicalAddress": "Quezon City",
+    "DeliveryAddress": "Quezon City"
+  },
+  {
+    "Id": "70e4ac9d-8e8a-4179-956d-7ad1b2588606",
+    "FirstName": "The",
+    "LastName": "Deep",
+    "PhysicalAddress": "Cebu City",
+    "DeliveryAddress": "Cebu City"
+  }
+]
