@@ -3,7 +3,8 @@ import FormComponent from "./components/FormComponent";
 import ListComponent from "./components/ListComponent";
 
 function App() {
-  const [contacts, setContacts] = useState([]);
+
+  const [contacts] = useState([]);
 
   return (
     <div className="App">
