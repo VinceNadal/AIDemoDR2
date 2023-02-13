@@ -8,9 +8,14 @@ on:
   pull_request:
     branches: [ main ]
 
+defaults:
+  run:
+    working-directory: backend
+
 jobs:
   build:
     name: Dotnet 6 API Build and Test
+
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
